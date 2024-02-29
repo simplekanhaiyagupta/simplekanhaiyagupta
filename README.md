@@ -1,4 +1,6 @@
-![logo](https://t4.ftcdn.net/jpg/01/88/91/05/360_F_188910510_XXQP2vgWROEZo0Y87moPU3C7Bf1XwRRK.jpg) 
+
+![image](https://github.com/simplekanhaiyagupta/simplekanhaiyagupta/assets/123774172/14524a72-7412-42bb-aa69-9118508be5db)
+ 
  <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
 <h3 align="center">I am Full Stack Web Developer</h3>
 <img align="right" alt="coding" src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif?cid=790b7611fym75nanwgvz37huxq4wthya83ektvl9p94upcf8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
