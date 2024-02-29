@@ -1,7 +1,7 @@
-![logo](https://logo.com/image-cdn/images/kts928pd/production/3b1f6d4cd7e64a6dc0b90b765fd3b1ca90abf0e3-731x731.png?w=1080&q=72) 
+![logo](https://t4.ftcdn.net/jpg/01/88/91/05/360_F_188910510_XXQP2vgWROEZo0Y87moPU3C7Bf1XwRRK.jpg) 
  <h1 align="center">Hi 👋, I'm Kanhaiya Kumar</h1>
 <h3 align="center">I am Full Stack Web Developer</h3>
-<img align="right" alt="coding" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="right" alt="coding" src="https://media4.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif?cid=790b7611fym75nanwgvz37huxq4wthya83ektvl9p94upcf8&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simplekanhaiyagupta&label=Profile%20views&color=0e75b6&style=flat" alt="simplekanhaiyagupta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@kanhaiya gupta_11" target="blank"><img src="https://img.shields.io/twitter/follow/@kanhaiya gupta_11?logo=twitter&style=for-the-badge" alt="@kanhaiya gupta_11" /></a> </p>
